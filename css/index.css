@@ -156,40 +156,40 @@
   background-color: #467370 !important;
 }
 
-.about-section {
+.mission-section {
   padding-top: 10rem;
   background: linear-gradient(to bottom, #161616 0%, rgba(22, 22, 22, 0.9) 75%, rgba(22, 22, 22, 0.8) 100%);
 }
 
-.about-section p {
+.mission-section p {
   margin-bottom: 5rem;
 }
 
-.projects-section {
+.cars-section {
   padding: 10rem 0;
 }
 
-.projects-section .featured-text {
+.cars-section .featured-text {
   padding: 2rem;
 }
 
 @media (min-width: 992px) {
-  .projects-section .featured-text {
+  .cars-section .featured-text {
     padding: 0 0 0 2rem;
     border-left: 0.5rem solid #64a19d;
   }
 }
 
-.projects-section .project-text {
+.cars-section .project-text {
   padding: 3rem;
   font-size: 90%;
 }
 
 @media (min-width: 992px) {
-  .projects-section .project-text {
+  .cars-section .project-text {
     padding: 5rem;
   }
-  .projects-section .project-text hr {
+  .cars-section .project-text hr {
     border-color: #64a19d;
     border-width: .25rem;
     width: 30%;
